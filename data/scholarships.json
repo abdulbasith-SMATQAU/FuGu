@@ -1,0 +1,68 @@
+[
+  {
+    "id": "scholarship-01",
+    "name": "Beasiswa Arah Masa Depan (Contoh)",
+    "audience": "Calon mahasiswa",
+    "level": "S1 / D4",
+    "focus": "Umum",
+    "benefit": "Contoh simulasi: bantuan biaya pendidikan sebagian.",
+    "eligibility": ["Sedang menyiapkan pendaftaran kuliah", "Menyusun rencana studi dan anggaran", "Memeriksa syarat resmi penyelenggara jika menggunakan program nyata"],
+    "documents": ["Identitas sesuai ketentuan program nyata", "Rapor atau transkrip sesuai persyaratan", "Esai tujuan studi (contoh)"],
+    "deadline": "Tidak ditentukan — data contoh"
+  },
+  {
+    "id": "scholarship-02",
+    "name": "Dukungan Belajar Cakrawala (Contoh)",
+    "audience": "Mahasiswa",
+    "level": "S1 / D4",
+    "focus": "Prestasi akademik",
+    "benefit": "Contoh simulasi: bantuan buku dan biaya belajar.",
+    "eligibility": ["Terdaftar sebagai mahasiswa pada skenario demo", "Memiliki catatan akademik untuk ditinjau", "Memastikan ketentuan program nyata kepada penyelenggara"],
+    "documents": ["Transkrip (contoh)", "Rencana penggunaan bantuan", "Surat keterangan jika diminta program nyata"],
+    "deadline": "Tidak ditentukan — data contoh"
+  },
+  {
+    "id": "scholarship-03",
+    "name": "Beasiswa Proyek Sosial (Contoh)",
+    "audience": "Calon mahasiswa",
+    "level": "S1 / D4",
+    "focus": "Sosial & Komunitas",
+    "benefit": "Contoh simulasi: pendanaan proyek komunitas skala kecil.",
+    "eligibility": ["Memiliki ide kegiatan sosial atau komunitas", "Dapat menjelaskan tujuan dan rencana kegiatan", "Syarat ini hanya contoh, bukan aturan program nyata"],
+    "documents": ["Ringkasan proyek (contoh)", "Linimasa kegiatan", "Rencana anggaran sederhana"],
+    "deadline": "Tidak ditentukan — data contoh"
+  },
+  {
+    "id": "scholarship-04",
+    "name": "Bantuan Akses Pendidikan (Contoh)",
+    "audience": "SMA/SMK kelas akhir",
+    "level": "S1 / D4",
+    "focus": "Dukungan biaya",
+    "benefit": "Contoh simulasi: dukungan biaya awal pendidikan.",
+    "eligibility": ["Sedang mencari jalur pembiayaan pendidikan", "Membuat perkiraan biaya studi", "Memeriksa persyaratan dan proses resmi pada program nyata"],
+    "documents": ["Formulir program nyata jika tersedia", "Dokumen pendidikan yang diminta penyelenggara", "Dokumen pendukung sesuai persyaratan resmi"],
+    "deadline": "Tidak ditentukan — data contoh"
+  },
+  {
+    "id": "scholarship-05",
+    "name": "Dana Eksplorasi Sains (Contoh)",
+    "audience": "Mahasiswa",
+    "level": "S1 / D4",
+    "focus": "Sains & Riset",
+    "benefit": "Contoh simulasi: dukungan kegiatan riset atau proyek pembelajaran.",
+    "eligibility": ["Memiliki gagasan atau minat eksplorasi sains", "Bersedia menyusun tujuan dan tahapan kegiatan", "Periksa syarat program nyata secara langsung"],
+    "documents": ["Garis besar ide proyek", "Jadwal kegiatan", "Perkiraan anggaran (contoh)"],
+    "deadline": "Tidak ditentukan — data contoh"
+  },
+  {
+    "id": "scholarship-06",
+    "name": "Dukungan Kreatif Muda (Contoh)",
+    "audience": "SMA/SMK kelas akhir",
+    "level": "S1 / D4",
+    "focus": "Desain & Kreativitas",
+    "benefit": "Contoh simulasi: bantuan untuk portofolio atau proyek kreatif.",
+    "eligibility": ["Memiliki minat pada karya kreatif", "Dapat menjelaskan ide karya", "Persyaratan pada data ini hanya ilustrasi"],
+    "documents": ["Portofolio contoh", "Deskripsi karya", "Rencana belajar"],
+    "deadline": "Tidak ditentukan — data contoh"
+  }
+]

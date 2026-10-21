@@ -1,0 +1,74 @@
+[
+  {
+    "id": "u01",
+    "name": "Kampus Simulasi Cakrawala — Surakarta",
+    "city": "Surakarta",
+    "region": "Jawa",
+    "tuition_band": "Terjangkau",
+    "description": "Contoh kampus untuk demonstrasi filter lokasi dan kisaran biaya. Bukan profil institusi nyata.",
+    "program_ids": ["informatika", "sistem-informasi", "manajemen", "desain-komunikasi-visual"]
+  },
+  {
+    "id": "u02",
+    "name": "Kampus Simulasi Lentera — Yogyakarta",
+    "city": "Yogyakarta",
+    "region": "Jawa",
+    "tuition_band": "Menengah",
+    "description": "Data ilustratif untuk latihan membandingkan bidang studi dan pilihan kampus.",
+    "program_ids": ["desain-komunikasi-visual", "psikologi", "pgsd", "statistika"]
+  },
+  {
+    "id": "u03",
+    "name": "Kampus Simulasi Inovasi — Bandung",
+    "city": "Bandung",
+    "region": "Jawa",
+    "tuition_band": "Fleksibel",
+    "description": "Contoh fiktif; nama, lokasi, dan kisaran biaya tidak boleh dipakai sebagai informasi penerimaan nyata.",
+    "program_ids": ["informatika", "sistem-informasi", "desain-komunikasi-visual", "teknik-lingkungan"]
+  },
+  {
+    "id": "u04",
+    "name": "Kampus Simulasi Mandala — Jakarta",
+    "city": "Jakarta",
+    "region": "Jawa",
+    "tuition_band": "Fleksibel",
+    "description": "Kampus contoh dengan pilihan bisnis, komunikasi, dan ilmu sosial untuk keperluan demo.",
+    "program_ids": ["manajemen", "akuntansi", "ilmu-komunikasi", "psikologi", "statistika"]
+  },
+  {
+    "id": "u05",
+    "name": "Kampus Simulasi Tunas — Malang",
+    "city": "Malang",
+    "region": "Jawa",
+    "tuition_band": "Terjangkau",
+    "description": "Data universitas sepenuhnya ilustratif, termasuk program dan kisaran biayanya.",
+    "program_ids": ["keperawatan", "pgsd", "teknik-lingkungan", "agribisnis"]
+  },
+  {
+    "id": "u06",
+    "name": "Kampus Simulasi Andalas Raya — Medan",
+    "city": "Medan",
+    "region": "Sumatera",
+    "tuition_band": "Terjangkau",
+    "description": "Contoh kampus fiktif untuk memperagakan filter wilayah di luar Jawa.",
+    "program_ids": ["manajemen", "akuntansi", "keperawatan", "agribisnis"]
+  },
+  {
+    "id": "u07",
+    "name": "Kampus Simulasi Bahari — Makassar",
+    "city": "Makassar",
+    "region": "Sulawesi",
+    "tuition_band": "Menengah",
+    "description": "Data demo untuk membandingkan jurusan teknologi, lingkungan, pertanian, dan komunikasi.",
+    "program_ids": ["informatika", "ilmu-komunikasi", "teknik-lingkungan", "agribisnis"]
+  },
+  {
+    "id": "u08",
+    "name": "Kampus Simulasi Samudra — Denpasar",
+    "city": "Denpasar",
+    "region": "Bali & Nusa Tenggara",
+    "tuition_band": "Menengah",
+    "description": "Institusi dan rincian pada halaman ini hanya contoh, bukan sumber informasi resmi.",
+    "program_ids": ["manajemen", "desain-komunikasi-visual", "ilmu-komunikasi", "teknik-lingkungan"]
+  }
+]
